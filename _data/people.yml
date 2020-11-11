@@ -1,0 +1,394 @@
+- id: jeehoon.kang
+  name: Jeehoon Kang
+  korean_name: 강지훈
+  status: present
+  title: Assistant Professor, PI
+  place: Rm. 4433, Bldg. E3-1, KAIST (+82-42-350-3578)
+  github: jeehoonkang
+  dblp: https://dblp.org/pers/hd/k/Kang:Jeehoon
+  google_scholar: https://scholar.google.co.kr/citations?user=qixw538AAAAJ
+  educations: [
+    "(2019) Ph.D. in Computer Science and Engineering. Seoul National University (supervisor: Prof. [Chung-Kil Hur](https://sf.snu.ac.kr/gil.hur)).",
+    "(2013) B.S. in Computer Science and Engineering and Mathematical Science. Seoul National University.",
+  ]
+
+- id: kyeongmin.cho
+  name: Kyeongmin Cho
+  korean_name: 조경민
+  status: present
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: drzix
+  google_scholar: https://scholar.google.co.kr/citations?user=KJd2XC4AAAAJ
+  educations: [
+    "(2019) B.S. in Computer Science and Engineering and Philosophy. Inha University.",
+  ]
+
+- id: chunmyong.park
+  name: Chunmyong Park
+  korean_name: 박천명
+  status: present
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: cmpark0126
+  google_scholar: https://scholar.google.co.kr/citations?user=8ez_CnwAAAAJ&hl
+  educations: [
+    "(2019) B.S. in School of Computer Science & Electrical Engineering. Handong Global University.",
+  ]
+
+- id: jaehwang.jung
+  name: Jaehwang Jung
+  korean_name: 정재황
+  status: present
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: tomtomjhj
+  educations: [
+    "(2020) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: sunghyuk.kay
+  name: Sunghyuk Kay
+  korean_name: 계성혁
+  status: present
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: lkaybob
+  google_scholar: https://scholar.google.co.kr/citations?user=rizoj1IAAAAJ
+  educations: [
+    "(2019) B.S. in Computer Engineering. Ajou University.",
+  ]
+
+- id: jaemin.choi
+  kaist_id: jaemin.choi98
+  name: Jaemin Choi
+  korean_name: 최재민
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4432, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: jh05013
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: sungsoo.han
+  name: Sungsoo Han
+  korean_name: 한성수
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: lomotos10
+  educations: [
+    "(2021) B.S. in Electrical Engineering & Computer Science. KAIST (expected).",
+  ]
+
+- id: seoyun.son
+  name: Seoyun Son
+  korean_name: 손서윤
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: anemoneflower
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: jungwoo.kim
+  name: Jungwoo Kim
+  korean_name: 김정우
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: kimjungwow
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: siwon.kim
+  name: Siwon Kim
+  korean_name: 김시원
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: coolofficials
+  educations: [
+    "(2021) B.S. in Mathematical Science & Computer Science. KAIST (expected).",
+  ]
+
+- id: chaeeun.hwang
+  name: Chaeeun Hwang
+  korean_name: 황채은
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: navy3690
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: soowon.jeong
+  name: Soowon Jeong
+  korean_name: 정수원
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: jeong0982
+  educations: [
+    "(2023) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: jihoon.hyun
+  name: Jihoon Hyun
+  korean_name: 현지훈
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: qawbecrdtey
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: hyunsu.kim
+  kaist_id: hyunsu.kim00
+  name: Hyunsu Kim
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: hyunsukimsokcho
+  educations: [
+    "(2020) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: jiseung.hong
+  name: Jiseung Hong
+  korean_name: 홍지승
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: JiseungHong
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: adi.yerembessov
+  name: Adi Yerembessov
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: hydium
+  educations: [
+    "(2020) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: batzorig.zorigoo
+  name: Batzorig Zorigoo
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: qvntm
+  educations: [
+    "(2020) B.S. in Computer Science and Mathematics. KAIST (expected).",
+  ]
+
+- id: bonjune.jang
+  name: Bongjun Jang
+  korean_name: 장봉준
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: bonjune
+  educations: [
+    "(2022) B.S. in Computer Science and Mathematics. KAIST (expected).",
+  ]
+
+- id: jeongwoon.choi
+  name: Jeong Woon Choi
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: isyangban
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+    "(2017) Exchange Student, Georgia Institute of Technology.",
+  ]
+
+- id: Suh-Ryung Kim
+  name: Suh-Ryung Kim
+  status: external
+  website: http://edu.snu.ac.kr/node/373
+
+- id: Boram Park
+  name: Boram Park
+  status: external
+  website: https://sites.google.com/site/borampark22/
+
+- id: Hakjoo Oh
+  name: Hakjoo Oh
+  status: external
+  website: http://prl.korea.ac.kr/~pronto/home/
+
+- id: Kihong Heo
+  name: Kihong Heo
+  status: external
+  website: https://www.cis.upenn.edu/~kheo/
+
+- id: Wonchan Lee
+  name: Wonchan Lee
+  status: external
+  website: https://ropas.snu.ac.kr/~wclee/
+
+- id: Woosuk Lee
+  name: Woosuk Lee
+  status: external
+  website: http://psl.hanyang.ac.kr/
+
+- id: Daejun Park
+  name: Daejun Park
+  status: external
+  website: https://daejunpark.github.io/
+
+- id: Kwangkeun Yi
+  name: Kwangkeun Yi
+  status: external
+  website: http://ropas.snu.ac.kr/~kwang/
+
+- id: Chung-Kil Hur
+  name: Chung-Kil Hur
+  status: external
+  website: https://sf.snu.ac.kr/gil.hur
+
+- id: William Mansky
+  name: William Mansky
+  status: external
+  website: http://www.cs.princeton.edu/~wmansky/
+
+- id: Dmitri Garbuzov
+  name: Dmitri Garbuzov
+  status: external
+  website: https://dblp.uni-trier.de/pers/hd/g/Garbuzov:Dmitri
+
+- id: Steve Zdancewic
+  name: Steve Zdancewic
+  status: external
+  website: http://www.cis.upenn.edu/~stevez/
+
+- id: Viktor Vafeiadis
+  name: Viktor Vafeiadis
+  status: external
+  website: https://people.mpi-sws.org/~viktor/
+
+- id: Yoonseung Kim
+  name: Yoonseung Kim
+  status: external
+  website: https://sf.snu.ac.kr/yoonseung.kim
+
+- id: Derek Dreyer
+  name: Derek Dreyer
+  status: external
+  website: https://people.mpi-sws.org/~dreyer/
+
+- id: Ori Lahav
+  name: Ori Lahav
+  status: external
+  website: https://www.cs.tau.ac.il/~orilahav/
+
+- id: Christopher Pulte
+  name: Christopher Pulte
+  status: external
+  website: https://www.cl.cam.ac.uk/~cp526/
+
+- id: Jean Pichon-Pharabod
+  name: Jean Pichon-Pharabod
+  status: external
+  website: https://www.cl.cam.ac.uk/~jp622/
+
+- id: Sung-Hwan Lee
+  name: Sung-Hwan Lee
+  status: external
+  website: https://sf.snu.ac.kr/sunghwan.lee/
+
+- id: Youngju Song
+  name: Youngju Song
+  status: external
+  website: https://sf.snu.ac.kr/youngju.song
+
+- id: Juneyoung Lee
+  name: Juneyoung Lee
+  status: external
+  website: https://sf.snu.ac.kr/juneyoung.lee
+
+- id: Sanghoon Park
+  name: Sanghoon Park
+  status: external
+  website: https://sf.snu.ac.kr/sanghoon.park
+
+- id: Mark Dongyeon Shin
+  name: Mark Dongyeon Shin
+  status: external
+  website: https://sf.snu.ac.kr/dongyeon.shin
+
+- id: Yonghyun Kim
+  name: Yonghyun Kim
+  status: external
+  website: https://sf.snu.ac.kr/yonghyun.kim
+
+- id: Sungkeun Cho
+  name: Sungkeun Cho
+  status: external
+  website: http://ropas.snu.ac.kr/~skcho/
+
+- id: Joonwon Choi
+  name: Joonwon Choi
+  status: external
+  website: http://joonwon.net/c/
+
+- id: Minki Cho
+  name: Minki Cho
+  status: external
+  website: https://sf.snu.ac.kr/minki.cho
+
+- id: Dongjoo Kim
+  name: Dongjoo Kim
+  status: external
+  website: https://sf.snu.ac.kr/dongjoo.kim
+
+- id: Hoang-Hai Dang
+  name: Hoang-Hai Dang
+  status: external
+  website: https://people.mpi-sws.org/~haidang/
+
+- id: Ralf Jung
+  name: Ralf Jung
+  status: external
+  website: https://people.mpi-sws.org/~jung/
+
+- id: Keunhong Lee
+  name: Keunhong Lee
+  status: external
+  website: https://an.kaist.ac.kr/~khlee/
+
+- id: Wonsup Yoon
+  name: Wonsup Yoon
+  status: external
+  website: http://an.kaist.ac.kr/member.html
+
+- id: Joongi Kim
+  name: Joongi Kim
+  status: external
+  website: http://an.kaist.ac.kr/~joongi/
+
+- id: Sue Moon
+  name: Sue Moon
+  status: external
+  website: http://an.kaist.ac.kr/~sbmoon/
+
+- id: dongwoo.oh
+  name: Dongwoo Oh
+  korean_name: 오동우
+  status: external
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: garamceleste
+  educations: [
+    "(2020) B.S. in Mathematical Science. KAIST (expected).",
+  ]
